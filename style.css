@@ -1,0 +1,43 @@
+.background-color-feed {
+    background-color: lightgray;
+}
+
+#pills-grid img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: grey;
+}
+
+.nav .nav-item> a {
+    color: grey;
+}
+
+.navbar>.container, .navbar>.container-fluid {
+    justify-content: space-around;
+}
+
+.navbar-brand h1{
+    font-family: 'Grand Hotel', cursive;
+}
+
+.profile-info ul {
+    list-style: none;
+    padding: 1px;
+}
+
+.profile-info ul > li {
+    margin-right: 40px;
+}
+
+.profile-info h5 {
+    font-weight: 300;
+}
+
+.profile-pic {
+    border: 3px solid red;
+    padding: 5px;
+}
